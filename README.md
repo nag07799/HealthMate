@@ -1,5 +1,3 @@
-
-```markdown
 # HealthMate 🩺
 
 **HealthMate** is an AI-powered healthcare chatbot designed to provide personalized health advice. The chatbot recommends nearby doctors based on your location and suggests alternative treatments like Ayurveda and Homeopathy. The app aims to empower users to make informed health decisions quickly and efficiently.
