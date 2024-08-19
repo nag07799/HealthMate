@@ -56,9 +56,6 @@ To run HealthMate locally, follow these steps:
 
 Contributions are welcome! If you'd like to improve HealthMate or fix any bugs, feel free to submit a pull request or open an issue.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 
